@@ -428,6 +428,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 
 Data Platforms for data integration, transformation and pipeline orchestration.
 
+- [profullstack/niche-db](https://github.com/profullstack/niche-db) 📇 ☁️ 🏠 - NicheDB: an open, ever-growing database of real-time public data (game releases, package registries, SEC filings, launches, recalls, papers, outages) with enrichment, served over Streamable HTTP at nichedb.dev/mcp or stdio via `nichedb mcp`.
 - [aywengo/kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive Kafka Schema Registry MCP server with 48 tools for multi-registry management, schema migration, and enterprise features.
 - [dbt-labs/dbt-mcp](https://github.com/dbt-labs/dbt-mcp) 🎖️ 🐍 🏠 ☁️ - Official MCP server for [dbt (data build tool)](https://www.getdbt.com/product/what-is-dbt) providing integration with dbt Core/Cloud CLI, project metadata discovery, model information, and semantic layer querying capabilities.
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️ 📇 ☁️ 🏠 - Interact with Flowcore to perform actions, ingest data, and analyse, cross reference and utilise any data in your data cores, or in public data cores; all with human language.
